@@ -43,3 +43,4 @@ Provide as much information as necessary to reproduce the bug.
 // ...
 ```
 -->
+// Some *minimal* Solidity source code to reproduce the bug updated.
